@@ -8,7 +8,7 @@ from aiogram.filters import CommandStart
 from aiogram.types import Message
 
 
-TOKEN = "6126064693:AAGZFAwgg20Z1ZSycEtCa-6nCJoA2ohgvTc"
+TOKEN = ""
 s = serial.Serial("COM8", 9600)
 
 dp = Dispatcher()
